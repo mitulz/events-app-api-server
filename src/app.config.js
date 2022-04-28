@@ -3,9 +3,10 @@
  * DO NOT store secrets here
  * DO NOT store state here - must be part of a stateless service
  * Code from the new-feature-X branch
+ * 3rd Try from the new-feature-X branch
  */
 class AppConfig {
-    team = 'NewCode';
+    team = '3rd_Try';
     version = '1.0.0';
 }
 module.exports = AppConfig;
